@@ -30,12 +30,12 @@
   color: #d35400;
 }
 .contact p{
-   font-size: 9px;
+   font-size: 15px;
 }
 .gmail::after{
    content: "";
    background-color: #34495e;
-   width: 1px;
+   width: 2px;
    height: 15px;
    position: absolute;
    top: 50%;
@@ -50,7 +50,7 @@
    justify-content: center;
    align-items: center;
    gap: 10px;
-   font-size: 17px;
+   font-size: 20px;
    transform: 0.3s;
 }
 .social-icon i:hover{
